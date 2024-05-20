@@ -1,0 +1,112 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": [
+          {"img": "./img/html.svg","description":"html"},
+          {"img": "./img/css.svg","description":"css"},
+          {"img": "./img/javascript.svg","description":"javascript"},
+          {"img": "./img/react.svg","description":"react"},
+          {"img": "./img/tailwind.svg","description":"tailwind"}
+          
+        ],
+        "title": "Front-End"
+      },
+      {
+        "id": "2",
+        "src":[
+          {"img": "./img/nodejs.svg","description":"nodejs"},
+          {"img": "./img/golang.svg","description":"golang"}
+        ],
+        "title": "Back-End"
+      },
+      {
+        "id": "3",
+        "src": [
+          {"img": "./img/postgresql.svg","description":"postgresql"},
+          {"img": "./img/docker.svg","description":"docker"}
+        ],
+        "title": "Database & Containers"
+      },
+      {
+        "id": "4",
+        "src": [
+          {"img": "./img/github.svg","description":"github"},
+          {"img": "./img/wordpress.svg","description":"wordpress"}
+        ],
+        "title": "Other"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/coffeeshop_node.png",
+        "title": "Coffee Shop Node.Js",
+        "description": "Coffee Shop is a web application, built using React.Js as the front-end, and Express.Js as the back-end, and PostgreSQL as the database",
+        "link": "https://rans-cofee-shop.netlify.app",
+        "frontEnd": "https://github.com/rayfarandi/fwg17-beginner-frontend",
+        "backEnd":"https://github.com/rayfarandi/fwg17-backend-beginner"
+      },
+      {
+        "id": "2",
+        "src": "./img/cinematix_golang.png",
+        "title": "CinemaTix - Ticket Booking GoLang",
+        "description": "Cinematix, an online ticket booking application, is designed using React.Js as the front-end, GoLang as the back-end, and PostgreSQL as the back-end.",
+        "link": "hhttp://143.110.156.215:7779",
+        "frontEnd": "https://github.com/rayfarandi/fwg17-cinematix-fe",
+        "backEnd":"https://github.com/rayfarandi/fwg-cinematic-be"
+      },
+      {
+        "id": "3",
+        "src": "./img/vallete_node.png",
+        "title": "Vallete - Digital Wallet Node.JS",
+        "description": "Vallet Digital Payments, application built to make it easier to make transactions without physical money, is designed using React.Js as the front-end, Express.Js as the back-end.",
+        "link": "https://vallet-fe.vercel.app/",
+        "frontEnd": "https://github.com/rayfarandi/fwg-vallet-fe",
+        "backEnd":"https://github.com/rayfarandi/fwg17-vallet-be"
+      },
+      {
+        "id": "4",
+        "src": "./img/coffeeshop_node.png",
+        "title": "Coffee Shop GoLang",
+        "description": "Coffee Shop is a web application, built using React.Js as the front-end, and Express.Js as the back-end, and PostgreSQL as the database.",
+        "link": "https://rans-cofee-shop.netlify.app",
+        "frontEnd": "https://github.com/rayfarandi/fwg17-beginner-frontend",
+        "backEnd":"https://github.com/rayfarandi/fwg17-go-backend"
+      },
+      {
+        "id": "5",
+        "src": "./img/nuklindolab.PT.png",
+        "title": "Web Prortofolio NuklindoLab.co.id",
+        "description": "Portofolio Website PT Nuklir Indonesia Laboratorium ( PT NUKLINDOLAB) ",
+        "link": "https://nuklindolab.co.id"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
+  
