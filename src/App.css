@@ -158,7 +158,6 @@ h2 {
 /* Navbar Style Start */
 .navbar {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 15px 85.333px;
   background: var(--white);

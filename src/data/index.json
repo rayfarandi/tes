@@ -52,7 +52,7 @@
         "src": "./img/cinematix_golang.png",
         "title": "CinemaTix - Ticket Booking GoLang",
         "description": "Cinematix, an online ticket booking application, is designed using React.Js as the front-end, GoLang as the back-end, and PostgreSQL as the back-end.",
-        "link": "hhttp://143.110.156.215:7779",
+        "link": "http://143.110.156.215:7779",
         "frontEnd": "https://github.com/rayfarandi/fwg17-cinematix-fe",
         "backEnd":"https://github.com/rayfarandi/fwg-cinematic-be"
       },

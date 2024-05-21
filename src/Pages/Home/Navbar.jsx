@@ -36,7 +36,7 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className={`navbar ${navActive ? "active" : ""} z-50` }>
+    <nav className={`navbar ${navActive ? "active" : ""} z-50 md:justify-between justify-center` }>
       <div>
         <img src="./img/logo.svg" alt="Logoipsum" />
       </div>
