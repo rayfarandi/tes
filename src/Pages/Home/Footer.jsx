@@ -9,7 +9,7 @@ function Footer() {
     <>
         <footer className="footer footer-center grid p-10 bg-base-200 text-base-content rounded">
         <nav className="grid-flow-col gap-4">
-            <a className="link link-hover">
+            <a className="link link-hover hover:no-underline">
                     <Link
                         activeClass="navbar-active-content"
                         spy={true}
@@ -22,20 +22,20 @@ function Footer() {
                         Home
                     </Link>
             </a>
-            <a className="link link-hover">
+            <a className="link link-hover hover:no-underline">
                     <Link
                         activeClass="navbar-active-content"
                         spy={true}
                         smooth={true}
                         offset={-70}
                         duration={500}
-                        to="MyPortfolio"
+                        to="mySkills"
                         className="text-md"
                     >
-                        Portfolio
+                        Services
                     </Link>
             </a>
-            <a className="link link-hover">
+            <a className="link link-hover hover:no-underline">
                     <Link
                         activeClass="navbar-active-content"
                         spy={true}
@@ -48,19 +48,20 @@ function Footer() {
                         About Me
                     </Link>
             </a>
-            <a className="link link-hover">
+            <a className="link link-hover hover:no-underline">
                     <Link
                         activeClass="navbar-active-content"
                         spy={true}
                         smooth={true}
                         offset={-70}
                         duration={500}
-                        to="mySkills"
+                        to="MyPortfolio"
                         className="text-md"
                     >
-                        Services
-                    </Link></a>
-                    <a className="link link-hover">
+                        Portfolio
+                    </Link>
+            </a>
+            <a className="link link-hover hover:no-underline">
                     <Link
                         activeClass="navbar-active-content"
                         spy={true}

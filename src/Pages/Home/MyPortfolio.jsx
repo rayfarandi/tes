@@ -15,7 +15,7 @@ export default function Myportfolio(){
                 <div>
                     <a href="https://github.com/rayfarandi" target="_blank" rel="noopener noreferrer">
                         
-                    <button className="btn btn-accent">
+                    <button className="btn btn-accent hover:animate-wiggle animate-once">
                     <FaGithub className="w-5 h-5" />
                         Visit My Github
                     </button>
@@ -30,7 +30,7 @@ export default function Myportfolio(){
                             <h2 className="card-title">{item.title}</h2>
                             <p>{item.description}</p>
                             <div className="card-actions justify-end">
-                            <button className="btn btn-primary" onClick={()=> document.getElementById(`details-${index}`).showModal()}>Details</button>
+                            <button className="btn btn-primary hover:animate-wiggle animate-once" onClick={()=> document.getElementById(`details-${index}`).showModal()}>Details</button>
 
                             {/* Modal */}
                             <dialog id={`details-${index}`} className="modal">
