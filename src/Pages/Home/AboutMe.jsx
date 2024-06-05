@@ -2,7 +2,7 @@ export default function AboutMe(){
     return(
         <>
             <section id="AboutMe" className="grid md:grid-cols-2 md:px-16 gap-4 px-5">
-                <div className="card md:card-side bg-base-100 shadow-xl max-h-80  ">
+                <div className="card lg:card-side bg-base-100 shadow-xl max-h-80  ">
                         <figure><img src="./img/about-me.svg" alt="Album"/></figure>
                         <div className="card-body">
                         <p>Name</p>
