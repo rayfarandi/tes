@@ -40,7 +40,7 @@ export default function AboutMe(){
                                 <strong>Universitas Gunadarma</strong><span>, Sistem Informasi</span> 
                             </div>
                             <p className="text-end">
-                            Jul 2017 - Agu 2018  
+                            Jul 2015 - Agu 2017  
                             </p>
                             
                         </div>
