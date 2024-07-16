@@ -80,6 +80,15 @@
         "title": "Web Prortofolio NuklindoLab.co.id",
         "description": "Portofolio Website PT Nuklir Indonesia Laboratorium ( PT NUKLINDOLAB) ",
         "link": "https://nuklindolab.co.id"
+      },
+      {
+        "id": "6",
+        "src": "./img/karyasentosaunggul.PT.png",
+        "title": "Web Prortofolio karyasentosaunggul.co.id",
+        "description": "Portofolio Website PT Karya Sentosa Unggul ( PT KSU) ",
+        "link": "https://karyasentosaunggul.co.id",
+        "frontEnd": "https://github.com/rayfarandi/ksu"
+
       }
     ],
     "testimonial": [
